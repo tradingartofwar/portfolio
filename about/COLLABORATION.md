@@ -1,12 +1,16 @@
 # Synergistic Intelligence and contribution
 
-Synergistic Intelligence is Troy Vance Williams's working description of Human–AI collaboration. It is an operating paradigm and a research motivation. It is not presented here as a validated theory of cognition or a demonstrated general performance advantage.
+Synergistic Intelligence is the sustained Human–AI operating method behind this portfolio. Troy Vance Williams and AI developed complementary roles, then external structures for continuity and coordination as the work exposed the limits of what one human could carry. The method and its evolution are themselves a central engineering subject.
+
+[Read the development history](../case-studies/SYNERGISTIC_INTELLIGENCE.md): from the original productivity and project-switching ambitions, through the human bottleneck and Git-backed project systems, to distributed collaboration and the prediction that AI will recede from ordinary attention.
 
 ## Division of responsibility
 
 Vance supplies direction, meaning, intuition, judgment, and authority. AI supplies technical execution, computation, structural continuity, research support, and orchestration. AI can also propose questions, interpretations, and objections within the delegated task. Human authority does not make a factual claim true; evidence can correct both participants.
 
-“AI carries structure; the human carries meaning” is a useful shorthand. Its practical test is whether the partnership preserves what matters while making reasoning and action inspectable and correctable.
+“AI carries structure; the human carries meaning” is a useful shorthand. Meaning includes what matters; retaining authority over it does not require the human to remember or discover everything alone. AI can contribute to framing and interpretation within the partnership. External structure supports continuity, source recovery, and return to unfinished work.
+
+Its practical test is whether the arrangement expands useful participation while preserving the human's ability to understand, judge, authorize, and correct consequential work. As the systems mature, the intended experience makes less of that supporting machinery demand attention.
 
 ## Attribution in this portfolio
 

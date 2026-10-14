@@ -4,9 +4,11 @@
 
 ## Editorial position
 
-**Research and engineering for inspectable Human–AI systems.**
+**Engineering sustained Human–AI collaboration.**
 
-Lead with a consequential problem, show a concrete artifact, state the result and its limit, and explain the possible contribution to AI work. Introduce Synergistic Intelligence through the collaboration's actual responsibilities and outputs. Treat Representation Science as an emerging research program whose framing is itself open to correction.
+Synergistic Intelligence is the central engineering account: how complementary roles, growing capability, a human integration bottleneck, and external structure led to distributed project work. The research and systems cases show what that arrangement produced. Explain the longer-term prediction that AI and its infrastructure will recede from ordinary use as dependable continuity and coordination develop.
+
+Lead each case with a consequential problem, show its artifact or operating history, state the result and its evidence status, and explain its possible contribution. Treat Representation Science as an emerging research program within this broader collaboration, with its framing open to correction.
 
 A technical reader should be able to understand the problem in one minute, inspect a complete case in five, and find exact code, results, and reproduction instructions without relying on a résumé.
 
@@ -15,7 +17,8 @@ A technical reader should be able to understand the problem in one minute, inspe
 | Surface | Reader's question | Responsibility |
 | --- | --- | --- |
 | README | What do you work on, and where is the evidence? | Concise entry point |
-| about/COLLABORATION.md | Who contributed what? | Paradigm, attribution, review limits |
+| case-studies/SYNERGISTIC_INTELLIGENCE.md | How did this way of working develop, and where is it heading? | Central development history, architecture, evidence status, prediction |
+| about/COLLABORATION.md | Who contributed what? | Responsibilities, attribution, review limits |
 | research/ | What is the research question and what has been learned? | Program overview with bounded findings |
 | case-studies/ | What was built, tested, corrected, or stopped? | Problem → method → result → limits → sources |
 | evidence/ | What exactly is supported? Can I reproduce it? | Claim register, standards, verification |
@@ -25,9 +28,9 @@ The research repositories own protocols, implementations, raw results, and scien
 
 ## Release sequence
 
-1. **Foundation, this edition:** publish the collaboration account, evidence rules, two research cases, the experiment-integrity case, claim register, and fresh verification.
+1. **Foundation, this edition:** lead with the Synergistic Intelligence development history, supported by the contribution account, research and engineering cases, evidence rules, claim register, and fresh verification. Preserve fivefold productivity as an original goal, the distributed workflow as an operational account, and disappearing AI as a prediction.
 2. **Aichi engineering account, included:** explain the early receptionist, its kernel-directed trajectory insight, and Vance's decision to stop work because the product no longer appeared to serve a future need. Present the hardware extension as an architectural possibility. The case preserves the lesson from completed work; further development or artifact recovery is not required for this edition.
-3. **Mission Control case:** prepare a synthetic responsibility/authority example with executable contract checks and a clear distinction between historical implementation and present operation. Demonstrate a complete proposal → authorization → mutation → verification sequence without private operational data.
+3. **Mission Control evidence:** the development history now includes the distributed map direction. Any later demonstration should examine whether one responsibility remains attended to without human re-prompting, with selective surfacing and recoverable evidence. Reuse the owning project's existing work and preserve the distinction between historical implementation, current operation, and proposed Dot maintenance. This portfolio does not initiate that trial.
 4. **Contribution and external review:** record concrete human decisions and AI work for each case; invite independent reproduction or review where appropriate. Do not upgrade status merely because a reviewer agrees.
 5. **Targeted research extension:** select a real agent/evaluation task, competent baseline, held-out cases, failure criteria, and resource limits before making a transfer or usefulness claim.
 
