@@ -28,6 +28,10 @@ python -m unittest discover -s tests -v
 
 The repository also contains an offline demonstration. This audit did not render it or certify its browser layout.
 
+## How this work led to Representation Science
+
+The wider Lonely Runner investigation repeatedly exposed distinctions that compressed representations had lost. Its [founding records](../research/REPRESENTATION_SCIENCE.md#how-lonely-runner-led-here) include isolated equality points carrying the entire existence answer and separate feasible ranges failing to preserve joint compatibility. Those episodes led to Representation Science as an independent inquiry. This checker is one concrete implementation of the same discipline: preserve the structure needed for the question being asked.
+
 ## Why it belongs in this portfolio
 
 The engineering example is precise: preserve a distinction that changes the answer, use an alternative algorithm to check the implementation, and distinguish inability to compute from evidence of impossibility. Its relevance to AI evaluation is methodological; no claim about frontier model performance follows from these tests.

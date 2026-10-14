@@ -32,6 +32,16 @@ The resulting approach places project context, decisions, evidence, uncertaintie
 
 The engineering challenge is to make continuity useful at the moment of return. A saved record becomes useful carry when the system retrieves the relevant state, recognizes what has changed, and brings the right matter back into attention.
 
+## Lonely Runner, compression, and the human challenge
+
+The Lonely Runner work sharpened the broader architecture by making failures of compression exact. Separate feasible ranges could lose the relation needed for joint feasibility; dropping isolated equality points could erase every valid answer. These episodes prompted the independent Representation Science program, as its [origin record](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md) documents.
+
+This connects the mathematical work to Vance's central diagnosis of difficult human problems: people need usable representations, yet omitted distinctions can change what follows. The question becomes which differences must remain available for judgment, responsibility, and correction.
+
+AI's proposed role is to maintain those distinctions, their relationships, evidence, and uncertainty beyond what the human must hold in immediate attention. A compact human-facing view can remain connected to richer recoverable state. The system should bring back the relevant distinction when changed conditions make it consequential.
+
+Representation Science investigates what that preservation requires. Synergistic Intelligence applies the architectural idea to sustained work. The [research account](../research/REPRESENTATION_SCIENCE.md) separates the mathematical evidence from the broader human thesis.
+
 ## From central control to a map of projects
 
 Vance now describes working across dozens of repositories, many functioning as durable homes for specialized Human–AI work, with corresponding GPT projects. He reports that local systems have largely receded from this workflow, while local organization remains useful for pictures and video.
@@ -68,7 +78,7 @@ Useful evaluations follow directly: what must the human reconstruct when returni
 
 - **Operational history and prediction:** Vance's October 14, 2026 portfolio discussion, including the original productivity ambition, migration history, distributed workflow, map vision, and disappearing-AI prediction.
 - **Inspected private records:** research on cognitive teaming and usable capacity; KOS architecture; partnership governance; consequence-aware return; network design; and the current Dot coordination plan. These establish documented work and proposals at their stated maturity. Exact revisions and source mappings are retained in the private audit.
-- **Publicly examinable outputs:** the linked research and engineering cases, with their own verification records.
+- **Publicly examinable lineage and outputs:** the [Representation Science origin record](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md), founding distinction records, and linked research and engineering cases, with their own verification records.
 - **Interpretation:** this account connects those records into a development history. The effect of the full arrangement on productivity, human load, or multi-team outcomes has not been measured by a controlled comparison.
 
 Private operational records and participant details remain in their owning systems. This page explains the approach without exporting those records.

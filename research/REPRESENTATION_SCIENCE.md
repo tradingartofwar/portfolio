@@ -1,10 +1,35 @@
-# Representation Science: adequacy depends on the question
+# Representation Science: from Lonely Runner to consequential distinctions
 
-**Evidence:** implemented experiment; bounded computational reproduction.  
-**Scope:** EXP-001's exposed, deterministic mathematical case.  
-**Canonical source:** [results and interpretation](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/experiments/EXP-001-results-2026-10-03.md).
+**Program:** An emerging inquiry into what representations must preserve for questions and decisions to remain answerable.  
+**Experimental evidence:** EXP-001's exposed, deterministic mathematical case, with bounded computational reproduction.  
+**Canonical sources:** [origin](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md) and [EXP-001 results](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/experiments/EXP-001-results-2026-10-03.md).
 
-## Problem
+## How Lonely Runner led here
+
+Representation Science emerged from work on the Lonely Runner Conjecture in September and October 2026. Attempts to make the mathematics tractable repeatedly exposed distinctions that a compact representation had removed. The recurring question was whether a failed representation had shown that a solution did not exist, or had lost the structure needed to recover it.
+
+Two founding records make this concrete:
+
+- [Joint compatibility](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/records/RR-LR-001-joint-compatibility.md): separate ranges can each admit a required value while no single underlying state satisfies both. The missing information is their relationship at the same point.
+- [Isolated equality](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/records/RR-LR-002-isolated-equality.md): in a recorded finite case, all valid times are isolated points. Keeping only positive-width intervals erases the entire solution set.
+
+The research lesson was that an apparently small distinction can carry the answer. Repeated corrections made representation adequacy itself an object of inquiry, and Vance created a separate research repository on October 3. Lonely Runner became its first laboratory.
+
+The resulting question is: **what must a representation preserve for a declared question or operation, and how does that requirement change as independent complexity increases?**
+
+## Why this matters for difficult human problems
+
+For Vance, preserving consequential distinctions is the central human challenge in confronting complexity. People work through compressed representations—words, categories, summaries, models, and narratives. The working diagnosis is that these can become inadequate when they merge differences that would change a judgment, responsibility, or action.
+
+The mathematical cases make that failure precise. The broader Human–AI program asks how to address it in human situations: preserve observation separately from interpretation, proposed action from authorization, individual facts from their joint compatibility, and a useful summary from the evidence beneath it.
+
+**AI's proposed role is to carry consequential distinctions outside continuous human attention.** AI-supported records and retrieval can maintain evidence, relationships, uncertainty, and return conditions while the person works with a manageable view. When the question or circumstances change, the system should surface and reopen the distinctions that now matter.
+
+This connects Representation Science to [Synergistic Intelligence](../case-studies/SYNERGISTIC_INTELLIGENCE.md) and the intended Mission Control experience. The interface can become simpler as the supporting representation preserves what the decision needs. The design still depends on faithful retention, retrieval, interpretation, and timely return; a fluent summary alone does not establish those capabilities.
+
+The central-human-challenge formulation is Vance's research priority and working thesis. The mathematical results test bounded parts of the representation problem; the broader human application is an ongoing engineering and evaluation direction.
+
+## EXP-001: distinguish the causes of failure
 
 A compact representation may answer one question and fail another. But failure can have several causes: omitted information, a restricted decoder, insufficient computation, or a missing certificate. Treating those causes as equivalent can produce a false claim about what the representation has lost.
 
@@ -43,6 +68,8 @@ The separate local-time transfer experiment, EXP-002, remains [stopped and unass
 
 ## Inspect the source
 
+- [Origin and development history](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md)
+- Founding records: [joint compatibility](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/records/RR-LR-001-joint-compatibility.md) and [isolated equality](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/records/RR-LR-002-isolated-equality.md)
 - [Operational contract](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/experiments/EXP-001-operational-addendum-v1.md)
 - [Runner](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/experiments/exp001/run.py), [solver](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/experiments/exp001/core.py), and [checker](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/experiments/exp001/check.py)
 - [Manifest](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/experiments/exp001/MANIFEST.json)
