@@ -23,7 +23,7 @@ The central research question is: **What consequential distinctions must a repre
 
 These artifacts offer concrete material for evaluation design, uncertainty reporting, and human oversight: declare the question, preserve the evidence needed to answer it, and make failure and recovery inspectable. Their usefulness for frontier AI is a research direction, not an established transfer result. They do not establish improved model alignment, general productivity gains, or a solution to the Lonely Runner Conjecture.
 
-[Aichi's early receptionist architecture](case-studies/AICHI_TRAJECTORIES.md) explores kernel-directed selection among recurring business-call trajectories. Vance reports responsive operation on consumer-grade hardware and later chip-design work. The account distinguishes that operational experience, inspected private implementation, and hardware artifacts still to be recovered. Mission Control coordination is another case-study candidate.
+[Aichi's early receptionist architecture](case-studies/AICHI_TRAJECTORIES.md) explores kernel-directed selection among recurring business-call trajectories. Vance reports responsive operation on consumer-grade hardware. Work on that product stopped when he judged that it no longer appeared to be a product the future needed; the case preserves the trajectory insight and sketches a possible hardware extension. Mission Control coordination is another case-study candidate.
 
 ## Examine, reproduce, challenge
 

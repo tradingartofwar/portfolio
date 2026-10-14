@@ -26,14 +26,14 @@ The research repositories own protocols, implementations, raw results, and scien
 ## Release sequence
 
 1. **Foundation, this edition:** publish the collaboration account, evidence rules, two research cases, the experiment-integrity case, claim register, and fresh verification.
-2. **Aichi engineering lineage:** foreground the early working receptionist and its kernel-directed trajectory insight. Recover existing demonstrations, hardware/setup evidence, and the reported chip-design artifacts before choosing new implementation work. Distinguish operational testimony, software implementation, later trajectory instrumentation, and hardware-design maturity. Prepare a clean synthetic demonstration only where it fills an actual evidence gap; release only approved non-sensitive material.
+2. **Aichi engineering account, included:** explain the early receptionist, its kernel-directed trajectory insight, and Vance's decision to stop work because the product no longer appeared to serve a future need. Present the hardware extension as an architectural possibility. The case preserves the lesson from completed work; further development or artifact recovery is not required for this edition.
 3. **Mission Control case:** prepare a synthetic responsibility/authority example with executable contract checks and a clear distinction between historical implementation and present operation. Demonstrate a complete proposal → authorization → mutation → verification sequence without private operational data.
 4. **Contribution and external review:** record concrete human decisions and AI work for each case; invite independent reproduction or review where appropriate. Do not upgrade status merely because a reviewer agrees.
 5. **Targeted research extension:** select a real agent/evaluation task, competent baseline, held-out cases, failure criteria, and resource limits before making a transfer or usefulness claim.
 
 ## Evidence needed for later editions
 
-- A public, sanitized Aichi reproducer and measured performance under declared conditions.
+- For any future quantified Aichi performance claim: measurements under declared conditions and an appropriate public, sanitized evidence package.
 - A public, synthetic Mission Control contract package and evidence of current runtime behavior.
 - Verified credential descriptions and employment chronology before detailed biography publication.
 - Appropriate independent review for mathematical proof candidates.
