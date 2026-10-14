@@ -4,6 +4,8 @@
 **Experimental evidence:** EXP-001's exposed, deterministic mathematical case, with bounded computational reproduction.  
 **Canonical sources:** [origin](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md) and [EXP-001 results](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/experiments/EXP-001-results-2026-10-03.md).
 
+For a short account of the partnership in action, read [how the research question changed and an interpretation was corrected](../case-studies/WHEN_THE_QUESTION_CHANGED.md). This page develops the research lineage, relational-information insight, and experimental evidence.
+
 ## How Lonely Runner led here
 
 Representation Science emerged from work on the Lonely Runner Conjecture in September and October 2026. Attempts to make the mathematics tractable repeatedly exposed distinctions that a compact representation had removed. The recurring question was whether a failed representation had shown that a solution did not exist, or had lost the structure needed to recover it.

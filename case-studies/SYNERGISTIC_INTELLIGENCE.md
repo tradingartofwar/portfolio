@@ -4,7 +4,11 @@
 
 Synergistic Intelligence is the operating method behind this portfolio. Its engineering subject is the whole arrangement: a human, AI capabilities, external memory, tools, authority, and the interfaces through which work continues.
 
-The starting question was what human and AI could accomplish by learning to work through complementary strengths. Experience introduced a second question: **as AI expands what can be explored and produced, how does the human remain able to orient, judge, and choose without carrying every project mentally?**
+The starting question was what human and AI could accomplish by learning to work through complementary strengths: entering unfamiliar problems, discovering possibilities, and bringing different capabilities to meaningful work. Experience introduced a second question: **as AI expands what can be explored and produced, how does the human remain able to orient, judge, and choose without carrying every project mentally?**
+
+Reducing what the human must carry serves that larger ambition. The intended benefit is more room to notice, explore, decide, and contribute.
+
+For a concrete episode, start with [the decision to open Representation Science and the experiment that corrected an interpretation](WHEN_THE_QUESTION_CHANGED.md). Its public records identify human direction, AI contributions, and the evidence that changed the conclusion. The history below explains how that episode fits a broader way of working.
 
 ## How the method developed
 

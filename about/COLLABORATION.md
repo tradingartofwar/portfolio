@@ -18,7 +18,15 @@ The [EXP-001 source report](https://github.com/tradingartofwar/representation-sc
 
 Accordingly, this portfolio presents **work produced through Human–AI collaboration**. It does not attribute every implementation detail, mathematical argument, or line of code to unaided human work. A commit author is a provenance clue, not a complete account of intellectual contribution.
 
-For each future case study, record the human's concrete decisions, the AI's material contributions, who reviewed the result, and what evidence changed the direction. Do not invent a more detailed contribution history where the record does not establish it.
+## Decisions that make the contribution visible
+
+**Opening a new research direction.** The public origin account records AI being invited into framing, followed by Vance creating Representation Science as a separate inquiry. The [question-quality note](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/notes/WORKING_NOTE_QUESTION_QUALITY_UPSTREAM_CONTROL_2026_10_04.md) explicitly discusses Vance's authorization for that participation. AI contributed comparison across episodes and formalization. [The case study](../case-studies/WHEN_THE_QUESTION_CHANGED.md) follows this decision into an experiment that corrected a stronger interpretation.
+
+**Choosing where to stop.** Vance reports ending work on the early Aichi receptionist because it no longer appeared to be a product the future needed. The [Aichi case](../case-studies/AICHI_TRAJECTORIES.md) preserves the trajectory insight and the product judgment. This is an attributed operational account, not a measured market forecast.
+
+These are concrete contributions to what work gets pursued and how its purpose is understood. The experiment's internal-reconstruction correction is attributed at the level the source supports: AI-authored work under investigator direction. Its exact human intervention history is not supplied.
+
+Future cases should retain the initial question, the specific human choice, AI's material work, the resulting evidence, and the changed decision. A commit author alone cannot establish that history.
 
 ## Review limits
 

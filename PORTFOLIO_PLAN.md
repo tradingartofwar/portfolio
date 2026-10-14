@@ -1,12 +1,12 @@
 # Portfolio proposal and release plan
 
-**Edition:** October 14, 2026 foundation.
+**Edition:** October 14, 2026 — evidence-led editorial follow-through.
 
 ## Editorial position
 
 **Engineering sustained Human–AI collaboration.**
 
-Synergistic Intelligence is the central engineering account: how complementary roles, growing capability, a human integration bottleneck, and external structure led to distributed project work. The research and systems cases show what that arrangement produced. Explain the longer-term prediction that AI and its infrastructure will recede from ordinary use as dependable continuity and coordination develop.
+Synergistic Intelligence is the central engineering account: how complementary roles, growing capability, a human integration bottleneck, and external structure led to distributed project work. The research and systems cases show what that arrangement produced. The opening now reaches a concrete episode before developing the broader history: opening a new research question, then correcting an interpretation through an unchanged-payload reconstruction. Explain the longer-term prediction that AI and its infrastructure will recede from ordinary use as dependable continuity and coordination develop.
 
 Lead each case with a consequential problem, show its artifact or operating history, state the result and its evidence status, and explain its possible contribution. Treat Representation Science as an emerging research program within this broader collaboration, with its framing open to correction.
 
@@ -18,7 +18,8 @@ A technical reader should be able to understand the problem in one minute, inspe
 | --- | --- | --- |
 | README | What do you work on, and where is the evidence? | Concise entry point |
 | case-studies/SYNERGISTIC_INTELLIGENCE.md | How did this way of working develop, and where is it heading? | Central development history, architecture, evidence status, prediction |
-| about/COLLABORATION.md | Who contributed what? | Responsibilities, attribution, review limits |
+| case-studies/WHEN_THE_QUESTION_CHANGED.md | What did this partnership actually change? | Documented framing decision, bounded computational correction, contribution account, reproduction path |
+| about/COLLABORATION.md | Who contributed what? | Concrete decisions, responsibilities, attribution, review limits |
 | research/ | What is the research question and what has been learned? | Program overview with bounded findings |
 | case-studies/ | What was built, tested, corrected, or stopped? | Problem → method → result → limits → sources |
 | evidence/ | What exactly is supported? Can I reproduce it? | Claim register, standards, verification |
@@ -28,16 +29,16 @@ The research repositories own protocols, implementations, raw results, and scien
 
 ## Release sequence
 
-1. **Foundation, this edition:** lead with the Synergistic Intelligence development history, supported by the contribution account, research and engineering cases, evidence rules, claim register, and fresh verification. Preserve fivefold productivity as an original goal, the distributed workflow as an operational account, and disappearing AI as a prediction.
+1. **Foundation and editorial follow-through, complete:** retain Synergistic Intelligence as the central subject; bring the documented research-framing decision and EXP-001 correction into the opening. Link directly to concrete results, attribution, and reproduction. Keep the full history at its own destination, with fivefold productivity as an original goal, the distributed workflow as an operational account, and disappearing AI as a prediction.
 2. **Aichi engineering account, included:** explain the early receptionist, its kernel-directed trajectory insight, and Vance's decision to stop work because the product no longer appeared to serve a future need. Present the hardware extension as an architectural possibility. The case preserves the lesson from completed work; further development or artifact recovery is not required for this edition.
-3. **Mission Control evidence:** the development history now includes the distributed map direction. Any later demonstration should examine whether one responsibility remains attended to without human re-prompting, with selective surfacing and recoverable evidence. Reuse the owning project's existing work and preserve the distinction between historical implementation, current operation, and proposed Dot maintenance. This portfolio does not initiate that trial.
+3. **Mission Control evidence:** the development history now includes the distributed map direction. Select an existing, documented episode in which a preserved relationship, changed condition, or return to a project affected a decision. Any later operational demonstration should examine whether one responsibility remains attended to without human re-prompting, with selective surfacing and recoverable evidence. Reuse the owning project's existing work and preserve the distinction between historical implementation, current operation, and proposed Dot maintenance. This portfolio does not initiate that trial.
 4. **Contribution and external review:** record concrete human decisions and AI work for each case; invite independent reproduction or review where appropriate. Do not upgrade status merely because a reviewer agrees.
 5. **Targeted research extension:** select a real agent/evaluation task, competent baseline, held-out cases, failure criteria, and resource limits before making a transfer or usefulness claim.
 
 ## Evidence needed for later editions
 
 - For any future quantified Aichi performance claim: measurements under declared conditions and an appropriate public, sanitized evidence package.
-- A public, synthetic Mission Control contract package and evidence of current runtime behavior.
+- A public demonstration grounded in an actual consequential workflow, with appropriate sanitization and evidence of current runtime behavior. A synthetic replay can illustrate a mechanism; sustained delivery and human-load effects require their own observations.
 - Verified credential descriptions and employment chronology before detailed biography publication.
 - Appropriate independent review for mathematical proof candidates.
 - A prospective comparison before claiming a general synergy, productivity, or alignment advantage.

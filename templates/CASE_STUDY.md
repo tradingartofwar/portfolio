@@ -28,7 +28,16 @@ State missing controls, deployment limits, external-validity limits, independent
 
 ## Contribution
 
-What did the human direct, recognize, decide, and review? What did AI generate, implement, test, or interpret? Do not infer unaided authorship from commits.
+Include one short decision episode where the record permits:
+
+- Initial question or intended action.
+- What the human noticed, authorized, redirected, rejected, or stopped.
+- What AI proposed, implemented, checked, or interpreted.
+- The source evidence and resulting change.
+
+Identify whether each contribution is documented in a contemporaneous record, reported retrospectively, or inferred. Leave unsupported attribution unspecified. Do not infer unaided authorship from commits.
+
+A real episode can show collaboration without proving a causal advantage over human-only or AI-only work. Preserve that distinction.
 
 ## Reproduce or challenge
 
