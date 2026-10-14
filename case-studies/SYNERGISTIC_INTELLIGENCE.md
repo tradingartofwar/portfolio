@@ -36,6 +36,8 @@ The engineering challenge is to make continuity useful at the moment of return. 
 
 The Lonely Runner work sharpened the broader architecture by making failures of compression exact. Separate feasible ranges could lose the relation needed for joint feasibility; dropping isolated equality points could erase every valid answer. These episodes prompted the independent Representation Science program, as its [origin record](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md) documents.
 
+The work also exposed the value of relational information. Individually accurate descriptions could omit how conditions fit together at a common state. Some of the decisive information therefore belonged to the configuration, rather than to any runner considered alone. The proposed AI architecture must carry dependencies and joint conditions alongside facts about individual parts.
+
 This connects the mathematical work to Vance's central diagnosis of difficult human problems: people need usable representations, yet omitted distinctions can change what follows. The question becomes which differences must remain available for judgment, responsibility, and correction.
 
 AI's proposed role is to maintain those distinctions, their relationships, evidence, and uncertainty beyond what the human must hold in immediate attention. A compact human-facing view can remain connected to richer recoverable state. The system should bring back the relevant distinction when changed conditions make it consequential.

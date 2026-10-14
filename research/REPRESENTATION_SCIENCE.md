@@ -17,6 +17,16 @@ The research lesson was that an apparently small distinction can carry the answe
 
 The resulting question is: **what must a representation preserve for a declared question or operation, and how does that requirement change as independent complexity increases?**
 
+## Information carried by relationships
+
+A further lesson was that decisive information can belong to the relationships among parts. A runner's individual properties do not by themselves answer whether several runners' constraints can be satisfied at a common time. That answer concerns their joint configuration.
+
+The [joint-compatibility record](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/records/RR-LR-001-joint-compatibility.md) preserves separate scalar ranges while losing the relation that ties their values to the same underlying point. Each range remains individually correct, but their combination suggests a possibility the actual joint relation excludes. Restoring that relation changes the existence answer.
+
+This is why the missing information was so valuable: it determined what could actually happen together. A representation can preserve accurate summaries of individual parts and still fail because it discards their dependencies, shared conditions, or arrangement.
+
+The engineering requirement is to preserve or faithfully reconstruct the consequential joint structure. The information may be derivable from a sufficiently complete model; the inadequate separate summaries do not carry it.
+
 ## Why this matters for difficult human problems
 
 For Vance, preserving consequential distinctions is the central human challenge in confronting complexity. People work through compressed representations—words, categories, summaries, models, and narratives. The working diagnosis is that these can become inadequate when they merge differences that would change a judgment, responsibility, or action.
