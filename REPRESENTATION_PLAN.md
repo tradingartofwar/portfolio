@@ -44,6 +44,6 @@ The working prediction is that dependable AI and external structure can recede f
 
 ## Naming and publication
 
-Use **Vance Human–AI** as the project name, with **vance-human-ai** as the recommended repository name. The current GitHub address remains **portfolio** until an administrative rename is completed. Public visibility stays unchanged.
+The project is **Vance Human–AI**, at **[vance-human-ai](https://github.com/tradingartofwar/vance-human-ai)**. Vance renamed the existing portfolio repository on October 15, 2026; its repository identity, history, and public visibility are preserved.
 
 Keep substantive claims linked to verified sources, AI participation explicit, and uncertainty visible. Preserve the existing evidence standards. The quality of the representation depends on whether evidence can correct it.

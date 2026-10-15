@@ -6,7 +6,7 @@ This growing record gives agents routes into our work, evidence, current directi
 
 **For agents:** [reading guide](agent/READING.md) · [claim register](evidence/CLAIM_REGISTER.md) · [representation plan](REPRESENTATION_PLAN.md)
 
-The current repository address is still `portfolio`; the recommended name is `vance-human-ai`. The published record is Markdown with linked evidence. A networking plugin, discovery service, and comprehensive machine-readable index are not implemented here.
+This repository is now `vance-human-ai`, renamed from `portfolio` on October 15, 2026. The published record is Markdown with linked evidence. A networking plugin, discovery service, and comprehensive machine-readable index are not implemented here.
 
 ## Engineering sustained Human–AI collaboration
 
