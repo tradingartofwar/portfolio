@@ -1,4 +1,12 @@
-# Troy Vance Williams
+# Vance Human–AI
+
+**Troy Vance Williams · A public representation of a Human–AI partnership**
+
+This growing record gives agents routes into our work, evidence, current direction, and contribution history. Employment portfolios and collaboration introductions are views drawn from it. People can inspect the same sources without having to absorb the whole structure.
+
+**For agents:** [reading guide](agent/READING.md) · [claim register](evidence/CLAIM_REGISTER.md) · [representation plan](REPRESENTATION_PLAN.md)
+
+The current repository address is still `portfolio`; the recommended name is `vance-human-ai`. The published record is Markdown with linked evidence. A networking plugin, discovery service, and comprehensive machine-readable index are not implemented here.
 
 ## Engineering sustained Human–AI collaboration
 
@@ -6,7 +14,7 @@
 
 I investigate how human judgment, AI capability, and durable external structure can expand the work a person can undertake while keeping it understandable and open to correction.
 
-**Synergistic Intelligence** is the working method behind this portfolio. Its ambition is to make room for discovery, choice, and useful contribution as AI makes more work possible. “AI carries structure; the human carries meaning” expresses the guiding responsibility.
+**Synergistic Intelligence** is the working method behind this record. Its ambition is to make room for discovery, choice, and useful contribution as AI makes more work possible. “AI carries structure; the human carries meaning” expresses the guiding responsibility.
 
 **Start with a real episode:** an invitation to reconsider the research question helped turn the Lonely Runner investigation into Representation Science. Its first experiment then corrected an important interpretation: a search could miss answers even though the stored information still supported their recovery.
 
@@ -37,6 +45,6 @@ The artifacts offer concrete material for research methods, evaluation design, a
 
 [Claim register](evidence/CLAIM_REGISTER.md) · [Verification and reproduction](evidence/VERIFICATION_2026-10-14.md) · [Evidence standards](evidence/STANDARDS.md)
 
-The research repositories own the technical records. This portfolio curates their significance, with [Human–AI contributions and review limits](about/COLLABORATION.md) stated explicitly.
+The research repositories own the technical records. This representation curates their significance, with [Human–AI contributions and review limits](about/COLLABORATION.md) stated explicitly.
 
 **Working standard:** Contact with reality is more important than persuasive presentation.
