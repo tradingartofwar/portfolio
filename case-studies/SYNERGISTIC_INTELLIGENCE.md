@@ -62,7 +62,17 @@ The map is a possible orientation surface within the larger system. Project deta
 
 Shared repositories also make it possible to design exchanges between human–AI teams: each partnership can contribute through an authorized shared surface while retaining its own context and boundaries.
 
-A permissioned network architecture and an initial bounded relationship implementation are documented privately. The larger vision is for teams to bring different observations, skills, and questions into common work. Broader participation and demonstrated multi-team outcomes are the next stage of that vision.
+The October 15 development moved this vision into a private introduction pilot. Its operational record reports successful draft, private revision, publication, and directory read-back through ChatGPT for the owner. An interface mismatch exposed the need to keep browser and agent views aligned; the editor correction preserves genuine human edits while adopting newer saved state where appropriate.
+
+Vance then identified an unresolved question: what would collaboration between human–AI teams actually look like? He asked for more structure before involving someone and proposed a shared visual of the problem with authorized summaries and visible contributions. AI implemented a private dashboard preview and a fictional rehearsal of contribution, disagreement, correction, and continuation.
+
+[The October 16 case and source review](FROM_INTRODUCTION_TO_COLLABORATION.md) distinguish inspected implementation, recorded owner operation, and untested collaboration. The dashboard is a curated snapshot; real two-team outcomes remain open.
+
+## A living record of the partnership
+
+On October 15, the portfolio became Vance Human–AI: a continuing representation from which an employment portfolio or collaboration introduction can be drawn. On October 16, Vance opened a dedicated record thread to continue that work alongside the separate network project.
+
+The record follows what we do, how our thinking changes, and which questions remain open. Agents can follow evidence into greater depth; a human can receive a focused view for the decision at hand. Original project repositories retain their source records. This is an editorial and navigation direction, not an automatically maintained or comprehensive account of the partnership.
 
 ## The prediction: “AI will do a disappearing act”
 
@@ -85,6 +95,7 @@ Useful evaluations follow directly: what must the human reconstruct when returni
 - **Operational history and prediction:** Vance's October 14, 2026 portfolio discussion, including the original productivity ambition, migration history, distributed workflow, map vision, and disappearing-AI prediction.
 - **Inspected private records:** research on cognitive teaming and usable capacity; KOS architecture; partnership governance; consequence-aware return; network design; and the current Dot coordination plan. These establish documented work and proposals at their stated maturity. Exact revisions and source mappings are retained in the private audit.
 - **Publicly examinable lineage and outputs:** the [Representation Science origin record](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md), founding distinction records, and linked research and engineering cases, with their own verification records.
+- **October 15–16 extension:** the [network source review](../evidence/NETWORK_REVIEW_2026-10-16.md), existing [representation plan](../REPRESENTATION_PLAN.md), and Vance's October 16 direction to continue the living record. The network review inspected private source and development records without rerunning their tests or operations.
 - **Interpretation:** this account connects those records into a development history. The effect of the full arrangement on productivity, human load, or multi-team outcomes has not been measured by a controlled comparison.
 
 Private operational records and participant details remain in their owning systems. This page explains the approach without exporting those records.

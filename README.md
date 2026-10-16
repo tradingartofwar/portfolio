@@ -6,7 +6,7 @@ This growing record gives agents routes into our work, evidence, current directi
 
 **For agents:** [reading guide](agent/READING.md) · [claim register](evidence/CLAIM_REGISTER.md) · [representation plan](REPRESENTATION_PLAN.md)
 
-This repository is now `vance-human-ai`, renamed from `portfolio` on October 15, 2026. The published record is Markdown with linked evidence. A networking plugin, discovery service, and comprehensive machine-readable index are not implemented here.
+This repository is now `vance-human-ai`, renamed from `portfolio` on October 15, 2026. The published record is Markdown with linked evidence. The separate network project has progressed to a private introduction pilot and team-dashboard preview; [the October 16 account](case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) distinguishes the implementation and recorded owner trial from collaboration still to be tested. No discovery service or comprehensive machine-readable index is implemented here.
 
 ## Engineering sustained Human–AI collaboration
 
@@ -27,6 +27,7 @@ I investigate how human judgment, AI capability, and durable external structure 
 | [A new question, then a correction](case-studies/WHEN_THE_QUESTION_CHANGED.md) | Research into compression became a separate inquiry. A restricted search found six maximizing times; reconstruction from the same stored data recovered all eight. | Documented framing decision and EXP-001 results; the October 14 audit reproduced three output files byte for byte. |
 | [Preserving the answer at an equality point](case-studies/EXACT_CHECKER.md) | An exact checker retains isolated valid times that interval-width summaries or sampling can miss. | Rational-arithmetic implementation; 25 existing tests passed in the audit, within a bounded domain. |
 | [Letting evidence change the disposition](case-studies/EXPERIMENT_INTEGRITY.md) | A successful run report failed the required replay check. The experiment remains stopped/unassessable. | Saved replay has 13 of 24 required records and a hash discrepancy, confirmed by the audit. |
+| [From an introduction to shared work](case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) | A private introduction path worked through ChatGPT; Vance then redirected development toward making team collaboration concrete. | Private code and dated development records inspected October 16; dashboard/rehearsal implemented, real two-team outcome unverified. |
 | [Aichi's conversational trajectories](case-studies/AICHI_TRAJECTORIES.md) | An early receptionist used kernel-directed selection among recurring call paths. Work stopped after a product-direction judgment. | Private implementation inspected; responsive consumer-hardware operation and the stop decision are Vance's operational account. |
 
 ## The larger inquiry

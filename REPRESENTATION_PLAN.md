@@ -1,6 +1,6 @@
 # Vance Human–AI — representation plan
 
-**October 15, 2026 · Current direction**
+**Updated October 16, 2026 · Current direction**
 
 ## Purpose
 
@@ -38,9 +38,15 @@ Avoid manufacturing completeness. New operational cases require appropriate publ
 
 The proposed Human–AI Network would help people find others with related interests and complementary contributions, then work together on questions they choose. This repository would represent one partnership within that network.
 
-The network's architecture and implementation belong to their own project. No discovery service, plugin, automatic collaboration provisioning, or measured reduction in human cognitive load is established by this public record.
+The network's architecture and implementation belong to their own project. The [October 16 case](case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) now records its private introduction plugin, the documented owner trial, and the dashboard/rehearsal preview with evidence limits. Discovery, automatic collaboration provisioning, real two-team outcomes, and measured reduction in human cognitive load remain unestablished.
 
 The working prediction is that dependable AI and external structure can recede from everyday attention while preserving inspection and correction. The intended human benefit is more time and freedom for what matters. That prediction motivates development; it remains distinct from demonstrated outcomes.
+
+## Living-record continuity
+
+The dedicated Vance AI Record thread continues development of this representation from October 16. Preserve three connected strands: work and supporting evidence; changes in thinking and consequential corrections; and current interests, commitments, and open questions where the owner has chosen to make them public.
+
+Extend the record when developments change what a reader can reasonably conclude. Keep dated reviews attached to their actual scope. The October 16 network addition is a source review, not a repeat of the October 14 research audit. Network design stays with its owning project; career-specific decisions stay with the private jobs project.
 
 ## Naming and publication
 
