@@ -1,6 +1,6 @@
 # From capability to participation: why the network matters
 
-**Recorded October 16, 2026. Claim IDs: P-025–P-029, with P-007–P-008 for Aichi.**  
+**Recorded October 16, 2026. Claim IDs: P-025–P-030, with P-007–P-008 for Aichi.**  
 **Evidence:** Vance Williams's retrospective account, an earlier attributed history, and the limited public sources identified below. AI prepared this account for the living record. Personal experiences and interpretations retain their attribution; unverified priority, performance, and credential claims are not promoted to findings.
 
 ## The question was there in March
@@ -36,6 +36,8 @@ The filings, prototype functions, and video have not been inspected here. “Pro
 Vance recalls being struck by the people and ideas at the event, including discussion of growing hearts in space. Yet after the first day he felt he was doing poorly at meeting people, and made a deliberate effort to improve.
 
 One exchange stayed with him. He asked someone involved in lunar robotics about a superconducting approach that he thought might help with dust. When asked whether this was his field, he said it was an interest. He felt the conversation then closed before the possible contribution had been explored.
+
+Vance clarified on October 16, 2026 that he had reached this idea independently and had not known about the NASA-hosted papers when he raised it. His thought was that supporting moving parts without mechanical contact could avoid the friction and interference caused by lunar dust. The connection to the published research was found while recording this story, rather than being the source of his suggestion at the event.
 
 That is his experience of the encounter. The other person's motives and the engineering merits of the specific suggestion are not established. The term he was reaching for may be **flux pinning**, an editorial inference supported by the superconductivity literature noted below.
 
