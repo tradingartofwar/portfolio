@@ -54,7 +54,7 @@ The origin has two distinct discoveries. First, Vance experienced continuity as 
 
 His decision to treat the loss as a glimpse of possibility, and later to ask about an existing open-source chatbot, changed the route forward. AI helped translate that opening into a working local system.
 
-The later architectures for external context, project homes, and collaboration continue this inquiry. The [development history](SYNERGISTIC_INTELLIGENCE.md) follows that progression. Later chapters can also follow the technical learning, peer community, and invitations Vance described after this beginning.
+Vance adds that by the end of March 2024 he was already asking what might become possible if human–AI teams could collaborate. The later architectures for external context, project homes, and collaboration continue this inquiry. The [development history](SYNERGISTIC_INTELLIGENCE.md) follows that progression; [the next chapter](FROM_CAPABILITY_TO_PARTICIPATION.md) connects agentic work, the receptionist, prototyping, networking experiences, and the search for a team.
 
 ## Source, publication, and open details
 

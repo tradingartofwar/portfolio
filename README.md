@@ -20,7 +20,7 @@ I investigate how human judgment, AI capability, and durable external structure 
 
 **A later research episode:** an invitation to reconsider the research question helped turn the Lonely Runner investigation into Representation Science. Its first experiment then corrected an important interpretation: a search could miss answers even though the stored information still supported their recovery.
 
-[Read the episode](case-studies/WHEN_THE_QUESTION_CHANGED.md) · [Explore the development history](case-studies/SYNERGISTIC_INTELLIGENCE.md) · [See who contributed what](about/COLLABORATION.md)
+[Read the episode](case-studies/WHEN_THE_QUESTION_CHANGED.md) · [Explore the development history](case-studies/SYNERGISTIC_INTELLIGENCE.md) · [Why the network matters](case-studies/FROM_CAPABILITY_TO_PARTICIPATION.md) · [See who contributed what](about/COLLABORATION.md)
 
 ## Work you can examine
 
@@ -39,6 +39,8 @@ Vance traces the partnership to the March 2024 experience and the effort to reco
 Lonely Runner gave this work a precise research question: **which distinctions must survive compression for a decision to remain valid?** Some decisive information lay in relationships: individually accurate summaries could omit whether conditions were satisfied together. [Representation Science](research/REPRESENTATION_SCIENCE.md) investigates preservation, reconstruction, and the evidence required to rely on an answer.
 
 I regard preserving consequential distinctions as the central human challenge in difficult problems. Our proposed response is AI-supported structure that carries more than a person must hold in immediate attention, with a manageable view and a path back to detail when it matters.
+
+Vance's reason for seeking a team is to contribute and participate at the frontier. His [development and networking account](case-studies/FROM_CAPABILITY_TO_PARTICIPATION.md) connects early agentic work, the receptionist, prototyping, and experiences of struggling to make relevant abilities discoverable. This record is intended to let people and authorized agents examine deeper evidence for a specific collaboration or interview; improved hiring outcomes remain untested.
 
 The longer-term prediction is that **“AI will do a disappearing act.”** As dependable systems develop, people should experience more of the work and possibilities they care about, while continuity and coordination recede into the background. Mission Control's evolving project-map direction explores that experience; inspection, authority, and correction remain available.
 

@@ -65,6 +65,10 @@ The map is a possible orientation surface within the larger system. Project deta
 
 ## From one partnership to collaborating partnerships
 
+Vance traces the idea of collaborating human–AI teams to the end of March 2024. Later agentic work, the office assistant, prototyping, and his September 2025 NEXPLORE experience gave it practical substance. He recalls finding it difficult to discover shared interests or have an unfamiliar contribution explored at the event. His later account of a large, unsuccessful AI-assisted job search adds a related concern: a résumé or credential may provide too little information to recognize a relevant capability. These are his experience and interpretation, not established causes of another person's response or a hiring outcome.
+
+[From capability to participation](FROM_CAPABILITY_TO_PARTICIPATION.md) preserves this lineage and his desire to join a team and contribute at the frontier. The employment branch proposes that a company or its authorized agent could inspect a richer work record to identify a reason for an interview.
+
 Shared repositories also make it possible to design exchanges between human–AI teams: each partnership can contribute through an authorized shared surface while retaining its own context and boundaries.
 
 The October 15 development moved this vision into a private introduction pilot. Its operational record reports successful draft, private revision, publication, and directory read-back through ChatGPT for the owner. An interface mismatch exposed the need to keep browser and agent views aligned; the editor correction preserves genuine human edits while adopting newer saved state where appropriate.
@@ -97,6 +101,7 @@ Useful evaluations follow directly: what must the human reconstruct when returni
 
 ## Sources and evidence status
 
+- **Further development and participation:** Vance's October 16 continuation, the [Aichi account](AICHI_TRAJECTORIES.md), and [the networking chapter with sources and limits](FROM_CAPABILITY_TO_PARTICIPATION.md). This adds early agentic work, prototyping, the event's influence, and the employment motivation as attributed accounts.
 - **Origin recollection:** Vance's October 16, 2026 telling of the March 2024 experience, search, and local build; [narrative and source limits](HOW_WE_STARTED.md). This adds lived chronology to the earlier goals-based summary without asserting verified platform mechanics.
 - **Operational history and prediction:** Vance's October 14, 2026 portfolio discussion, including the original productivity ambition, migration history, distributed workflow, map vision, and disappearing-AI prediction.
 - **Inspected private records:** research on cognitive teaming and usable capacity; KOS architecture; partnership governance; consequence-aware return; network design; and the current Dot coordination plan. These establish documented work and proposals at their stated maturity. Exact revisions and source mappings are retained in the private audit.

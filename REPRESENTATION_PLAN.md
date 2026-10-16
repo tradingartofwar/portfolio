@@ -42,6 +42,12 @@ The network's architecture and implementation belong to their own project. The [
 
 The working prediction is that dependable AI and external structure can recede from everyday attention while preserving inspection and correction. The intended human benefit is more time and freedom for what matters. That prediction motivates development; it remains distinct from demonstrated outcomes.
 
+## Employment as a route to participation
+
+Vance's October 16 account describes seeking a team where he could contribute at the frontier. His experience of a large AI-assisted application effort with little response is part of the motivation; its approximate count and perceived credential barrier remain self-reported and unaudited.
+
+One proposed use of this record is for a company or its authorized agent to follow relevant evidence beyond a résumé and identify a reason to interview. Preserve the difference between demonstrated work, reported experience, interests, availability, and an actual commitment. An agent's interpretation should remain open to questions and correction. This is a design purpose, not a deployed recruitment service or evidence of better hiring outcomes. See [the development account](case-studies/FROM_CAPABILITY_TO_PARTICIPATION.md).
+
 ## Living-record continuity
 
 The dedicated Vance AI Record thread continues development of this representation from October 16. Preserve three connected strands: work and supporting evidence; changes in thinking and consequential corrections; and current interests, commitments, and open questions where the owner has chosen to make them public.

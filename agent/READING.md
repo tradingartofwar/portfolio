@@ -13,6 +13,7 @@ This public repository represents Troy Vance Williams's Human–AI work. Read se
 | Who contributed, and what was checked? | [Collaboration account](../about/COLLABORATION.md) and [verification record](../evidence/VERIFICATION_2026-10-14.md) |
 | How did it begin? | [March 2024 origin story](../case-studies/HOW_WE_STARTED.md), explicitly a retrospective account |
 | How did this way of working develop? | [Synergistic Intelligence](../case-studies/SYNERGISTIC_INTELLIGENCE.md) |
+| Why build a network, and how does employment fit? | [From capability to participation](../case-studies/FROM_CAPABILITY_TO_PARTICIPATION.md) and [representation plan](../REPRESENTATION_PLAN.md) |
 | What is the representation becoming? | [Representation plan](../REPRESENTATION_PLAN.md) |
 
 ## Interpretation
