@@ -1,6 +1,6 @@
 # From capability to participation: why the network matters
 
-**Recorded October 16, 2026. Claim IDs: P-025–P-030, with P-007–P-008 for Aichi.**  
+**Recorded October 16, 2026. Claim IDs: P-025–P-031, with P-007–P-008 for Aichi.**  
 **Evidence:** Vance Williams's retrospective account, an earlier attributed history, and the limited public sources identified below. AI prepared this account for the living record. Personal experiences and interpretations retain their attribution; unverified priority, performance, and credential claims are not promoted to findings.
 
 ## The question was there in March
@@ -25,9 +25,11 @@ He stopped developing the product because he expected general AI services to mak
 
 Vance's account continues with a prototype-building GPT and digital lighting prototypes for human and plant needs, connected to his preparation for a space-focused gathering. He reports two provisional patent applications, one for terrestrial and one for extraterrestrial applications, and an eight-step video called *Pathway to Innovation*.
 
-The event was **NEXPLORE 2040, September 9–11, 2025, at Amazon HQ2 in Arlington, Virginia**, according to [the organizer's event page](https://www.xfoundry.org/nexplore25/nexplore2025). Its program included a NASA fireside chat and work on AI beyond Earth. An earlier attributed account records a personal invitation through a course classmate; this record does not imply a formal NASA invitation or endorsement.
+The event was **NEXPLORE 2040, September 9–11, 2025, at Amazon HQ2 in Arlington, Virginia**, according to [the organizer's event page](https://www.xfoundry.org/nexplore25/nexplore2025). Its program included a NASA fireside chat and work on AI beyond Earth. The invitation described below was personal; this record does not imply a formal NASA invitation or endorsement.
 
-The intended contribution was not used as he had expected. He describes the prototyping as a valuable learning experience. The precise order of the lighting prototypes, custom GPT, proposed competition, and video needs reconciliation with dated artifacts; the earlier account and this telling order some steps differently. His experience does not establish that the event itself held no competition.
+Vance identifies the person who invited him as a former MIT-course classmate whom he had helped with AI. He recalls that she was preparing one of the keynote presentations on humans and AI working together and thought he would be well suited to help. Ultimately, he says, the presentation shifted toward showcasing useful AI tools, and he did not take on that planned role. He still attended and describes it as a great event.
+
+His prototype-building GPT was not used as he had expected. He describes the prototyping as a valuable learning experience. The precise order of the lighting prototypes, custom GPT, proposed competition, and video needs reconciliation with dated artifacts; the earlier account and this telling order some steps differently. His experience does not establish that the event itself held no competition.
 
 The filings, prototype functions, and video have not been inspected here. “Provisional applications” is used deliberately: [USPTO guidance](https://www.uspto.gov/patents/basics/apply/provisional-application) distinguishes these from granted patents. No present legal status, validated lighting performance, or external adoption is asserted.
 
