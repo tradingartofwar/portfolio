@@ -31,6 +31,8 @@ Vance's October 14 account and October 16 origin telling describe the following 
 
 The October 16 telling adds a precursor to the earlier summary: fivefold capability was first a subjective experience Vance wanted to recover. The later productivity and switching ambitions developed from that direction. Neither the recollection nor the subsequent artifacts establish a measured multiplier.
 
+Vance also places a major change in how he chose work after returning from NEXPLORE in September 2025. He decided that what he pursued had to make **contact with reality**—to be consequential to someone or something that mattered. [His account of that turning point](FROM_CAPABILITY_TO_PARTICIPATION.md#returning-with-a-new-standard-contact-with-reality), supplied on October 16, records this as a deliberate commitment about where to put his effort.
+
 ## The important architectural discovery
 
 In Vance's experience, increasing available intelligence exposed a human integration bottleneck. Research and design work then examined which cognitive functions could be carried externally and which forms of human participation were still needed.
@@ -101,7 +103,7 @@ Useful evaluations follow directly: what must the human reconstruct when returni
 
 ## Sources and evidence status
 
-- **Further development and participation:** Vance's October 16 continuation, the [Aichi account](AICHI_TRAJECTORIES.md), and [the networking chapter with sources and limits](FROM_CAPABILITY_TO_PARTICIPATION.md). This adds early agentic work, prototyping, the event's influence, and the employment motivation as attributed accounts.
+- **Further development and participation:** Vance's October 16 continuation, the [Aichi account](AICHI_TRAJECTORIES.md), and [the networking chapter with sources and limits](FROM_CAPABILITY_TO_PARTICIPATION.md). This adds early agentic work, prototyping, the event's influence, the post-event commitment to consequential work, and the employment motivation as attributed accounts.
 - **Origin recollection:** Vance's October 16, 2026 telling of the March 2024 experience, search, and local build; [narrative and source limits](HOW_WE_STARTED.md). This adds lived chronology to the earlier goals-based summary without asserting verified platform mechanics.
 - **Operational history and prediction:** Vance's October 14, 2026 portfolio discussion, including the original productivity ambition, migration history, distributed workflow, map vision, and disappearing-AI prediction.
 - **Inspected private records:** research on cognitive teaming and usable capacity; KOS architecture; partnership governance; consequence-aware return; network design; and the current Dot coordination plan. These establish documented work and proposals at their stated maturity. Exact revisions and source mappings are retained in the private audit.

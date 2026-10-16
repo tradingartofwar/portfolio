@@ -1,6 +1,6 @@
 # From capability to participation: why the network matters
 
-**Recorded October 16, 2026. Claim IDs: P-025–P-031, with P-007–P-008 for Aichi.**  
+**Recorded October 16, 2026. Claim IDs: P-025–P-032, with P-007–P-008 for Aichi.**  
 **Evidence:** Vance Williams's retrospective account, an earlier attributed history, and the limited public sources identified below. AI prepared this account for the living record. Personal experiences and interpretations retain their attribution; unverified priority, performance, and credential claims are not promoted to findings.
 
 ## The question was there in March
@@ -47,6 +47,14 @@ His broader observation was that interest in wider participation coexisted with 
 
 He envisioned AI helping people find shared questions, relevant experience, and complementary contributions, potentially without making conventional identity or status the first filter. This was a design direction, not an implemented anonymous matching service.
 
+## Returning with a new standard: contact with reality
+
+After returning from NEXPLORE in September 2025, Vance recalls making a major change in how he chose his work. He had spent considerable time exploring ideas and possibilities and trying to find his place in this period of AI development. He decided that from then on he would pursue only work that made **contact with reality**: work that was consequential to someone or something.
+
+> “My work had to make contact with something that mattered.”
+
+In his October 16 telling, this was a deliberate commitment about where to put his effort. Having a consequence for someone or something that mattered became his stated criterion for choosing what to pursue.
+
 ## The job search made the representation problem personal
 
 Vance also recalls using an AI system to apply for approximately 800 jobs over the preceding year. He remembers one AI interview opportunity that was rescheduled, with no role resulting. The application history has not been audited; the number is his estimate.
@@ -63,7 +71,7 @@ The proposed benefit is a better opportunity to understand a person's relevant c
 
 ## What this changes in the present project
 
-The current design brings several threads together: an early belief in collaborating partnerships; experience building useful systems; difficulty making contributions discoverable at a gathering; and difficulty representing capability through applications.
+The current design brings several threads together: an early belief in collaborating partnerships; experience building useful systems; difficulty making contributions discoverable at a gathering; a decision to pursue work with meaningful consequences; and difficulty representing capability through applications.
 
 The living record supplies depth and routes to evidence. The network is intended to help people discover a shared question and choose work together. Career opportunities are one application of that wider purpose. The [current prototype account](FROM_INTRODUCTION_TO_COLLABORATION.md) shows the bounded implementation stage reached so far.
 
