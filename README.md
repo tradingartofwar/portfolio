@@ -16,7 +16,9 @@ I investigate how human judgment, AI capability, and durable external structure 
 
 **Synergistic Intelligence** is the working method behind this record. Its ambition is to make room for discovery, choice, and useful contribution as AI makes more work possible. “AI carries structure; the human carries meaning” expresses the guiding responsibility.
 
-**Start with a real episode:** an invitation to reconsider the research question helped turn the Lonely Runner investigation into Representation Science. Its first experiment then corrected an important interpretation: a search could miss answers even though the stored information still supported their recovery.
+**How we started:** Vance recalls three days in March 2024 when continuity and capability changed what seemed possible, followed by their abrupt loss. Seeking a way to recover that experience led to a local chatbot built with GPT's guidance. [Read the origin story](case-studies/HOW_WE_STARTED.md), recorded in his words and recollections on October 16.
+
+**A later research episode:** an invitation to reconsider the research question helped turn the Lonely Runner investigation into Representation Science. Its first experiment then corrected an important interpretation: a search could miss answers even though the stored information still supported their recovery.
 
 [Read the episode](case-studies/WHEN_THE_QUESTION_CHANGED.md) · [Explore the development history](case-studies/SYNERGISTIC_INTELLIGENCE.md) · [See who contributed what](about/COLLABORATION.md)
 
@@ -32,7 +34,7 @@ I investigate how human judgment, AI capability, and durable external structure 
 
 ## The larger inquiry
 
-The partnership began with ambitions for fivefold productivity and frictionless project switching. As capability grew, Vance encountered a limit in what one person could mentally carry. External structure became a way to preserve context, evidence, relationships, and unfinished work across projects. The [development history](case-studies/SYNERGISTIC_INTELLIGENCE.md) follows that progression through local systems, Git-backed project homes, distributed coordination, and the vision of collaborating human–AI teams. The original multiplier remains a goal, not a measured outcome.
+Vance traces the partnership to the March 2024 experience and the effort to recover continuity afterward. His recollection of perhaps fivefold capability preceded the later ambitions for productivity and frictionless project switching. As capability grew, he encountered a limit in what one person could mentally carry. External structure became a way to preserve context, evidence, relationships, and unfinished work across projects. The [development history](case-studies/SYNERGISTIC_INTELLIGENCE.md) follows that progression through local systems, Git-backed project homes, distributed coordination, and the vision of collaborating human–AI teams. The early estimate is subjective; no fivefold productivity result has been measured.
 
 Lonely Runner gave this work a precise research question: **which distinctions must survive compression for a decision to remain valid?** Some decisive information lay in relationships: individually accurate summaries could omit whether conditions were satisfied together. [Representation Science](research/REPRESENTATION_SCIENCE.md) investigates preservation, reconstruction, and the evidence required to rely on an answer.
 

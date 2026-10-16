@@ -8,14 +8,19 @@ The starting question was what human and AI could accomplish by learning to work
 
 Reducing what the human must carry serves that larger ambition. The intended benefit is more room to notice, explore, decide, and contribute.
 
-For a concrete episode, start with [the decision to open Representation Science and the experiment that corrected an interpretation](WHEN_THE_QUESTION_CHANGED.md). Its public records identify human direction, AI contributions, and the evidence that changed the conclusion. The history below explains how that episode fits a broader way of working.
+Begin with [Vance's March 2024 origin story](HOW_WE_STARTED.md): a short experience of continuity, its abrupt loss, and the local chatbot he recalls building with GPT's help after other routes proved inaccessible. This retrospective account was supplied on October 16, 2026.
+
+For a later episode with public research artifacts, see [the decision to open Representation Science and the experiment that corrected an interpretation](WHEN_THE_QUESTION_CHANGED.md). Its records identify human direction, AI contributions, and the evidence that changed the conclusion.
 
 ## How the method developed
 
-Vance's October 14, 2026 account describes the following progression. Repository inspection supports the architectural stages; the early motivations and lived experience are his retrospective account.
+Vance's October 14 account and October 16 origin telling describe the following progression. Repository inspection supports selected later architectural stages; the March 2024 experience and build remain his retrospective account.
 
 | Stage | Problem or ambition | Response |
 | --- | --- | --- |
+| Experience continuity | Over roughly three days in March 2024, memory and apparent capability make substantially more seem possible | Vance recalls a felt increase of perhaps fivefold; no productivity measurement |
+| Lose it, then seek a way back | A generic greeting the next morning signals to Vance that continuity has disappeared | Reframe the loss as a glimpse of the future; spend about two weeks exploring developers and tools |
+| Build together | Existing options seem exhausted; ask whether an open-source chatbot could be adapted | GPT interprets a GitHub project; Vance recalls a working local chatbot after three days, with attached Notepad files supplying context |
 | Learn the partnership | Discover where human judgment, intuition, and direction complement AI's technical capabilities | Develop differentiated roles through actual work and correction |
 | Expand capability | Aim for fivefold productivity and immediate switching between projects | Delegate technical execution and develop continuity; these were design ambitions |
 | Encounter the human bottleneck | Growing AI capability and memory create more material, possibilities, and unfinished work than the human can comfortably carry | Investigate usable capacity, cognitive load, and the allocation of cognitive work |
@@ -24,7 +29,7 @@ Vance's October 14, 2026 account describes the following progression. Repository
 | Distribute the work | Different projects need their own context, methods, and responsibilities | Use specialized project homes with corresponding GPT workspaces; develop shared coordination between human–AI partnerships |
 | Make orientation selective | Central coordination can itself become work | Evolve Mission Control toward a project map and investigate Dot-supported maintenance |
 
-The fivefold ambition and frictionless switching explain the original direction. The demonstrated outputs in this portfolio establish particular accomplishments; they do not measure that original multiplier.
+The October 16 telling adds a precursor to the earlier summary: fivefold capability was first a subjective experience Vance wanted to recover. The later productivity and switching ambitions developed from that direction. Neither the recollection nor the subsequent artifacts establish a measured multiplier.
 
 ## The important architectural discovery
 
@@ -92,6 +97,7 @@ Useful evaluations follow directly: what must the human reconstruct when returni
 
 ## Sources and evidence status
 
+- **Origin recollection:** Vance's October 16, 2026 telling of the March 2024 experience, search, and local build; [narrative and source limits](HOW_WE_STARTED.md). This adds lived chronology to the earlier goals-based summary without asserting verified platform mechanics.
 - **Operational history and prediction:** Vance's October 14, 2026 portfolio discussion, including the original productivity ambition, migration history, distributed workflow, map vision, and disappearing-AI prediction.
 - **Inspected private records:** research on cognitive teaming and usable capacity; KOS architecture; partnership governance; consequence-aware return; network design; and the current Dot coordination plan. These establish documented work and proposals at their stated maturity. Exact revisions and source mappings are retained in the private audit.
 - **Publicly examinable lineage and outputs:** the [Representation Science origin record](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md), founding distinction records, and linked research and engineering cases, with their own verification records.

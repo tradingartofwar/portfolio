@@ -1,6 +1,6 @@
 # Agent reading guide
 
-**October 15, 2026**
+**Updated October 16, 2026**
 
 This public repository represents Troy Vance Williams's Human–AI work. Read selectively for a specific question; the whole record need not fit into one context.
 
@@ -11,6 +11,7 @@ This public repository represents Troy Vance Williams's Human–AI work. Read se
 | What is the partnership investigating? | [README](../README.md) and [Representation Science](../research/REPRESENTATION_SCIENCE.md) |
 | What can I actually support? | [Claim register](../evidence/CLAIM_REGISTER.md), then the linked case and source artifacts |
 | Who contributed, and what was checked? | [Collaboration account](../about/COLLABORATION.md) and [verification record](../evidence/VERIFICATION_2026-10-14.md) |
+| How did it begin? | [March 2024 origin story](../case-studies/HOW_WE_STARTED.md), explicitly a retrospective account |
 | How did this way of working develop? | [Synergistic Intelligence](../case-studies/SYNERGISTIC_INTELLIGENCE.md) |
 | What is the representation becoming? | [Representation plan](../REPRESENTATION_PLAN.md) |
 

@@ -20,6 +20,8 @@ Accordingly, this portfolio presents **work produced through Human–AI collabor
 
 ## Decisions that make the contribution visible
 
+**Finding a buildable route.** In his [origin account](../case-studies/HOW_WE_STARTED.md), Vance recalls reframing a lost experience of continuity as a glimpse of the future. After roughly two weeks of unsuccessful attempts to arrange a replacement, he asked whether an existing open-source chatbot could provide a starting point. GPT supplied a GitHub lead and interpreted unfamiliar technical language. He recalls a working local chatbot after three days of collaboration. This is his retrospective account of complementary contributions; the original implementation has not been recovered.
+
 **Opening a new research direction.** The public origin account records AI being invited into framing, followed by Vance creating Representation Science as a separate inquiry. The [question-quality note](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/notes/WORKING_NOTE_QUESTION_QUALITY_UPSTREAM_CONTROL_2026_10_04.md) explicitly discusses Vance's authorization for that participation. AI contributed comparison across episodes and formalization. [The case study](../case-studies/WHEN_THE_QUESTION_CHANGED.md) follows this decision into an experiment that corrected a stronger interpretation.
 
 **Choosing where to stop.** Vance reports ending work on the early Aichi receptionist because it no longer appeared to be a product the future needed. The [Aichi case](../case-studies/AICHI_TRAJECTORIES.md) preserves the trajectory insight and the product judgment. This is an attributed operational account, not a measured market forecast.
