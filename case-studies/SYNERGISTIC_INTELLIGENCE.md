@@ -39,7 +39,7 @@ In Vance's experience, increasing available intelligence exposed a human integra
 
 The resulting approach places project context, decisions, evidence, uncertainties, and return conditions in durable external structure. AI helps recover and work with that structure. The human contributes purpose and judgment and can inspect, redirect, or correct the work.
 
-“AI carries structure; the human carries meaning” expresses the intended responsibility. Meaning includes what matters. AI can help discover significance and propose a better question; the human retains authority over what to pursue and authorize.
+**October 26 clarification:** Human and AI both contribute meaning and structure. The earlier role slogan is retained as history, rather than a current allocation of all semantic or structural work. Vance’s authority over commitments, permissions, and consequential decisions remains distinct from those contributions. The [current contribution account](../about/COLLABORATION.md) states the working boundary.
 
 The engineering challenge is to make continuity useful at the moment of return. A saved record becomes useful carry when the system retrieves the relevant state, recognizes what has changed, and brings the right matter back into attention.
 
@@ -79,6 +79,18 @@ Vance then identified an unresolved question: what would collaboration between h
 
 [The October 16 case and source review](FROM_INTRODUCTION_TO_COLLABORATION.md) distinguish inspected implementation, recorded owner operation, and untested collaboration. The dashboard is a curated snapshot; real two-team outcomes remain open.
 
+## October 22–26: participation, correction, and leaving work
+
+The collaboration work progressed from the earlier introduction and rehearsal to a restricted shared-work service. Its October 23 record reports an owner plugin save and duplicate-retry check. On October 26, another participant contributed through the browser. This representation review independently retrieved the resulting GitHub revision and current artifact. The second participant’s own GPT connection and a complete two-team exchange remain unverified. [Dated case and review](FROM_INTRODUCTION_TO_COLLABORATION.md).
+
+The first contribution also exposed a gap between having an update and making it usable: Vance could see new work but could not open it. The development record describes the navigation repair and local checks, while retaining live post-deployment owner navigation as an acceptance question. A saved result, a notification, access to the result, and acknowledgment have different consequences.
+
+A related design question is now being developed: can someone leave a project safely, return without reconstructing its history, identify a useful next move or consequential change, and then put it aside again? A bounded observational proposal considers naturally occurring returns, including failures and unknown outcomes. It remains a proposal under observation; this public update establishes no completed comparison or reduction in human carrying cost.
+
+The aim extends beyond maintaining more projects. The arrangement is intended to make room for learning, relationships, care, discovery, and ordinary life. Its success has to be examined where the system meets actual circumstances. Declaring a system truth-seeking or saving more records does not by itself establish that corrections reach its next action.
+
+The effective arrangement includes people, models, shared history, lenses, principles, tools, records, and the relationships among them. This is the current engineering frame, with its usefulness still open to testing. Evaluating a model remains important; understanding the larger arrangement also requires examining retrieval, authority, coordination, failures, and recovery in use.
+
 ## A living record of the partnership
 
 On October 15, the portfolio became Vance Human–AI: a continuing representation from which an employment portfolio or collaboration introduction can be drawn. On October 16, Vance opened a dedicated record thread to continue that work alongside the separate network project.
@@ -109,6 +121,7 @@ Useful evaluations follow directly: what must the human reconstruct when returni
 - **Inspected private records:** research on cognitive teaming and usable capacity; KOS architecture; partnership governance; consequence-aware return; network design; and the current Dot coordination plan. These establish documented work and proposals at their stated maturity. Exact revisions and source mappings are retained in the private audit.
 - **Publicly examinable lineage and outputs:** the [Representation Science origin record](https://github.com/tradingartofwar/representation-science/blob/b8750dee72d5cc9a76d5dbee59077743cee735a9/ORIGIN.md), founding distinction records, and linked research and engineering cases, with their own verification records.
 - **October 15–16 extension:** the [network source review](../evidence/NETWORK_REVIEW_2026-10-16.md), existing [representation plan](../REPRESENTATION_PLAN.md), and Vance's October 16 direction to continue the living record. The network review inspected private source and development records without rerunning their tests or operations.
+- **October 22–26 update:** the [collaboration source review](../evidence/COLLABORATION_REVIEW_2026-10-26.md) records the private implementation snapshot, fresh shared-artifact readback, source-reported UI repair, current contribution framing, and the untested leave/return direction. It does not refresh the October 14 mathematical audit.
 - **Interpretation:** this account connects those records into a development history. The effect of the full arrangement on productivity, human load, or multi-team outcomes has not been measured by a controlled comparison.
 
 Private operational records and participant details remain in their owning systems. This page explains the approach without exporting those records.

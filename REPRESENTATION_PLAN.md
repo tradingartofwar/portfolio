@@ -1,6 +1,6 @@
 # Vance Human–AI — representation plan
 
-**Updated October 16, 2026 · Current direction**
+**Updated October 26, 2026 · Current direction**
 
 ## Purpose
 
@@ -38,9 +38,11 @@ Avoid manufacturing completeness. New operational cases require appropriate publ
 
 The proposed Human–AI Network would help people find others with related interests and complementary contributions, then work together on questions they choose. This repository would represent one partnership within that network.
 
-The network's architecture and implementation belong to their own project. The [October 16 case](case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) now records its private introduction plugin, the documented owner trial, and the dashboard/rehearsal preview with evidence limits. Discovery, automatic collaboration provisioning, real two-team outcomes, and measured reduction in human cognitive load remain unestablished.
+The network’s architecture and implementation belong to their own project. The [dated collaboration case](case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) preserves the October 16 introduction/rehearsal checkpoint and now follows the October 22–26 service into a real second participant’s browser contribution. The [October 26 review](evidence/COLLABORATION_REVIEW_2026-10-26.md) freshly checks saved-artifact persistence while separating it from source-reported UI repair and deployment. Independent-GPT exchange, discovery, automatic collaboration provisioning, broader two-team outcomes, and measured reduction in human carrying cost remain unestablished.
 
 The working prediction is that dependable AI and external structure can recede from everyday attention while preserving inspection and correction. The intended human benefit is more time and freedom for what matters. That prediction motivates development; it remains distinct from demonstrated outcomes.
+
+The current account also replaces the older exclusive meaning/structure division with contributions from both participants and a separate authority boundary. Its evaluation focus includes the full arrangement’s response to changed circumstances, failed actions, and correction. Practical leave/return work remains a design direction; supporting ordinary life is an intended benefit rather than a measured outcome.
 
 ## Employment as a route to participation
 

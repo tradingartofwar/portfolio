@@ -1,6 +1,6 @@
 # Agent reading guide
 
-**Updated October 16, 2026**
+**Updated October 26, 2026**
 
 This public repository represents Troy Vance Williams's Human–AI work. Read selectively for a specific question; the whole record need not fit into one context.
 
@@ -14,7 +14,10 @@ This public repository represents Troy Vance Williams's Human–AI work. Read se
 | How did it begin? | [March 2024 origin story](../case-studies/HOW_WE_STARTED.md), explicitly a retrospective account |
 | How did this way of working develop? | [Synergistic Intelligence](../case-studies/SYNERGISTIC_INTELLIGENCE.md) |
 | Why build a network, and how does employment fit? | [From capability to participation](../case-studies/FROM_CAPABILITY_TO_PARTICIPATION.md) and [representation plan](../REPRESENTATION_PLAN.md) |
+| What changed in the October 22–26 collaboration work? | [Dated case](../case-studies/FROM_INTRODUCTION_TO_COLLABORATION.md) and [October 26 review](../evidence/COLLABORATION_REVIEW_2026-10-26.md); browser participation is distinct from an independent-GPT round trip |
 | What is the representation becoming? | [Representation plan](../REPRESENTATION_PLAN.md) |
+
+Current role framing is in [the contribution account](../about/COLLABORATION.md): human and AI both contribute meaning and structure; personal authority and consequential delegation remain distinct. The October 26 source review does not refresh the October 14 mathematical audit.
 
 ## Interpretation
 
